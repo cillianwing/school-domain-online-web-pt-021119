@@ -8,7 +8,7 @@ class School
     @roster = {}
   end
   
-  #def roster #from supp lecture - what's this doing?
+  #def roster # from supp lecture - what's this doing?
   #  @roster.dup
   #end
   
